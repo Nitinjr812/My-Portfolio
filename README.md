@@ -12,7 +12,7 @@ This portfolio is a representation of my work and capabilities as a front-end de
 - User-friendly navigation to ensure easy exploration.
 
 ## 📸 Preview
-Explore the live version of my portfolio here: [Live Portfolio](https://nitinjr812-portfolio.netlify.app)
+Explore the live version of my portfolio here: [Live Portfolio](https://nitin-portfolio2.netlify.app)
 
 ## 🛠️ What You’ll Find
 - Detailed case studies of my projects.
