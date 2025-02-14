@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 npm install
 # Portfolio V5  
 Hello everyone!  
@@ -112,3 +113,7 @@ To configure Firebase for this project, follow these steps:
 6. **Update `firebase.js` and `firebase-comment.js` Files:**  
    - Replace the `firebaseConfig` content with your Firebase configuration.  
 
+=======
+# My-Portfolio
+A sleek portfolio showcasing my journey as a developer, focusing on user-centric web experiences, problem-solving, and creative design. Explore my work and see how I build innovative solutions with attention to quality and detail.
+>>>>>>> 94d01c844d7483ea9bb00126dee7cf944328eade
